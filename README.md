@@ -1,5 +1,8 @@
+[![Code Climate](https://img.shields.io/codeclimate/github/jekyll/jekyll.svg)][codeclimate]
 ## Having Fun Playing with it
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
+
+
 
 For more details see [Contact us](<a id ="#Contact"> Contact</a>).
 
