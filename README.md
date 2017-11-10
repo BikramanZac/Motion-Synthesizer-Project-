@@ -8,7 +8,7 @@ For more details see <A href="#Contact">Contact us </A>
 ## Working 
 ![alt tag](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
 
-Read more about our [Project Idea](https://drive.google.com/drive/folders/0B2tSFq5bbGM1YWYxVWFxajFWYWM)
+Read more about our [Project Idea](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/ENGL273_Proposal_Bikramanzac.pdf)
 
 ### Markdown
 
