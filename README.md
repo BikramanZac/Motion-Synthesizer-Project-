@@ -4,7 +4,7 @@
 
 
 
-For more details see <A href="#section-1">Contact us </A>
+For more details see <A href="#Contact">Contact us </A>
 
 ## Working 
 ![alt tag](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
