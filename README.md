@@ -11,8 +11,8 @@ For more details see <A href="#Contact">Contact us </A>
 Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1cGNRVUJWdVloNlk/view?usp=sharing)
 
 # Hand Control 
-![Image](https://drive.google.com/open?id=1g0P0faUHepniK2nwULDfWWhPRf8R9ooz)
-<IMG SRC="https://drive.google.com/open?id=1g0P0faUHepniK2nwULDfWWhPRf8R9ooz.gif">
+![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true)
+
 
 ### Markdown
 
