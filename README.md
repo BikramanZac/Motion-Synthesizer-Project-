@@ -12,6 +12,7 @@ Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1
 
 # Hand Control 
 ![Image](https://drive.google.com/open?id=1g0P0faUHepniK2nwULDfWWhPRf8R9ooz)
+<IMG SRC="https://drive.google.com/open?id=1g0P0faUHepniK2nwULDfWWhPRf8R9ooz.gif">
 
 ### Markdown
 
