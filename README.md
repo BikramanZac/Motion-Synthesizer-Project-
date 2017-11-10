@@ -1,7 +1,7 @@
 ## Having Fun Playing with it
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
 
-For more details see [Contact us](https://github.com/BikramanZac/Motion-Synthesizer-Project-/edit/master/README.md#Contact us).
+For more details see [Contact us](https://bikramanzac.github.io/Motion-Synthesizer-Project-/#Contact us).
 
 ## Working 
 ![alt tag](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
