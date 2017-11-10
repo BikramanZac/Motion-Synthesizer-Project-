@@ -10,6 +10,9 @@ For more details see <A href="#Contact">Contact us </A>
 
 Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1cGNRVUJWdVloNlk/view?usp=sharing)
 
+# Hand Control 
+![Image](https://drive.google.com/open?id=1g0P0faUHepniK2nwULDfWWhPRf8R9ooz)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
