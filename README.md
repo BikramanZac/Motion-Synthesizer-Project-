@@ -1,4 +1,6 @@
-![motion synth cover photo](https://user-images.githubusercontent.com/33526358/33522751-d3f17ed4-d7a8-11e7-8151-aba70f0987b8.jpg)
+### Motion Synthesizer
+
+<img align="center" src="https://user-images.githubusercontent.com/33526358/33522751-d3f17ed4-d7a8-11e7-8151-aba70f0987b8.jpg">
 
 ## Having Fun Playing with it
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
@@ -14,29 +16,7 @@ Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true)
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 # Contact
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
