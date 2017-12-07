@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=motionsynths
+Comment=runs motion synthesizer
+Exec=/home/pi/Desktop/SystemControl7/StartUp.sh
+Icon=/home/pi/Desktop/SystemControl7/icon.png
+Terminal=fasle
+Type=Application
+Categories=Utility
+
