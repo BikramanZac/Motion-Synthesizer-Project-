@@ -22,4 +22,5 @@ Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1
 
 # <b> <font color ="darkblue">Contact</font>
 
-<img align="center" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/team%20.JPG?raw=true">
+
+<img align="right" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/team%20.JPG?raw=true">
