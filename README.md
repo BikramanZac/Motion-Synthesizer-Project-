@@ -19,7 +19,7 @@ Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1
 
 
 #<b><font color ="darkblue"> Contact Our Team </font>
-<a name="Contact"> </a>
+
 <img align="right" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/team%20.JPG?raw=true">
 
 <b> Our team worked hard on this project, and achieved success in making of very interesting project.
@@ -27,4 +27,4 @@ Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1
 <b> For any further questions or discussions regarding the project, feel free to reach us at:
   bikramanzac@gmail.com 
 
-# cvb
+
