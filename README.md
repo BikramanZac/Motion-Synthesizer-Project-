@@ -18,8 +18,8 @@ Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true)
 
 
-#<b><font color ="darkblue"> Contact Our Team <a name="Contact"> </a></font>
-
+#<b><font color ="darkblue"> Contact Our Team </font>
+<a name="Contact"> </a>
 <img align="right" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/team%20.JPG?raw=true">
 
 <b> Our team worked hard on this project, and achieved success in making of very interesting project.
