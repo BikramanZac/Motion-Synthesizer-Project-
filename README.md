@@ -18,7 +18,7 @@ Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true)
 
 
-#<b><font color ="darkblue">Contact</font>
+#<b><font color ="darkblue"> <a name="Contact"> </a></font>
 
 <img align="right" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/team%20.JPG?raw=true">
 
