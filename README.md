@@ -13,7 +13,6 @@
   <b>  <li> Supports HDMI screens, and 3.5 mm jack headphones </li>
   <b>  <li> Demonstrates unique features of Computer Vision Technology </li>
   <b>  <li> Gives the choice of 20 different sound effects, which can be mixed by user </li> 
-</ul>
     
 
 # <b> <font color ="darkblue">Having Fun Playing with it </font>
