@@ -7,12 +7,12 @@
 <h2> Features & Capabilities </h2>
 
 <ul>
-    <b> <li>Allows to track any object & control music with that</li>
-    <b> <li>Allows to control music by waving hands in front of the sensors</li>
-    <b> <li>Guides the user in every mode with Graphical User Interface</li>
-    <b> <li>Supports HDMI screens, and 3.5 mm jack headphones</li> 
-    <b> <li>Demonstrates unique features of Computer Vision Technology</li> 
-    <b> <li>Gives the choice of 20 different sound effects, which can be mixed by user</li> 
+    <li>Allows to track any object & control music with that</li>
+    <li>Allows to control music by waving hands in front of the sensors</li>
+    <li>Guides the user in every mode with Graphical User Interface</li>
+    <li>Supports HDMI screens, and 3.5 mm jack headphones</li> 
+    <li>Demonstrates unique features of Computer Vision Technology</li> 
+    <li>Gives the choice of 20 different sound effects, which can be mixed by user</li> 
 </ul>
       
 # <b> <font color ="darkblue">Having Fun Playing with it </font>
