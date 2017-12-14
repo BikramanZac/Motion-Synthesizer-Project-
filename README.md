@@ -4,6 +4,14 @@
   
 <img align="center" src="https://user-images.githubusercontent.com/33526358/33522751-d3f17ed4-d7a8-11e7-8151-aba70f0987b8.jpg">
 
+<ul>
+  <b>  <li> Allows to track any object & control music with that </li>
+  <b>  <li> Allows to control music by waving hands in front of the sensors </li>
+  <b>  <li> Guides the user in every mode with Graphical User Interface </li>
+  <b>  <li> Supports HDMI screens, and 3.5 mm jack headphones </li>
+  <b>  <li> Demonstrates unique features of Computer Vision Technology </li>
+  <b>  <li> Gives the choice of 20 different sound effects, which can be mixed by user </li> 
+    </ul>
 
 # <b> <font color ="darkblue"> Having Fun Playing with it </font>
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
@@ -25,13 +33,6 @@ Read more about our [Project Idea](https://drive.google.com/file/d/0B2tSFq5bbGM1
 <b> For any further questions or discussions regarding the project, feel free to reach us at:
   bikramanzac@gmail.com 
   
-## <b> <font color ="green"> Features & Capabilities </font>
-<ul>
-  <b>  <li> Allows to track any object & control music with that </li>
-  <b>  <li> Allows to control music by waving hands in front of the sensors </li>
-  <b>  <li> Guides the user in every mode with Graphical User Interface </li>
-  <b>  <li> Supports HDMI screens, and 3.5 mm jack headphones </li>
-  <b>  <li> Demonstrates unique features of Computer Vision Technology </li>
-  <b>  <li> Gives the choice of 20 different sound effects, which can be mixed by user </li> 
-    </ul>
+  
+
 
