@@ -1,0 +1,11 @@
+This document is to describe you about different files and folders.
+
+There is a separate folder for all the source code files which are actually python scripts.
+
+But our full project containing all the files mixed, is in the System Control folder. This folder has all the scripts, images, screens displayed on the GUI
+and musical notes we used in the project. If you want to get that full directory, that's our whole project with every file.
+
+But for easy access and separation, we have all the scripts in the Source files folder as well. 
+
+All of the documents are contained in the Documentation folder. 
+
