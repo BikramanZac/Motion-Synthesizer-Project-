@@ -6,7 +6,6 @@
 
 ## Features & Capabilities
 
- <ul>
   <b>  <li> Allows to track any object & control music with that </li>
   <b>  <li> Allows to control music by waving hands in front of the sensors </li>
   <b>  <li> Guides the user in every mode with Graphical User Interface </li>
