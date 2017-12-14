@@ -8,13 +8,14 @@
   <b>  <li> Guides the user in every mode with Graphical User Interface </li>
   <b>  <li> Supports HDMI screens, and 3.5 mm jack headphones </li>
   <b>  <li> Demonstrates unique features of Computer Vision Technology </li>
-  <b>  <li> Gives the choice of 20 different sound effects, which can be mixed by user </li> </ul>
+  <b>  <li> Gives the choice of 20 different sound effects, which can be mixed by user </li> 
+</ul>
     
   
 <img align="center" src="https://user-images.githubusercontent.com/33526358/33522751-d3f17ed4-d7a8-11e7-8151-aba70f0987b8.jpg">
 
 
-# <b> <font color ="darkblue"> Having Fun Playing with it </font>
+# <b> <font color ="darkblue">Having Fun Playing with it </font>
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
 
 For more details see <A href="#Contact">Contact us </A>
