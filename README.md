@@ -30,7 +30,7 @@ For more details see <A href="#Contact">Contact us </A>
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true)
   
 ## <b> <font color ="green">Camera Mode </font>
-<img align="center" height="500" width="500" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Pictures/CameraBallTracking.png?raw=true">
+<img align="center" height="470" width="550" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Pictures/CameraBallTracking.png?raw=true">
 
 <b>For user guide and instructions about each mode, you can follow the [User Manual here](https://drive.google.com/open?id=1gXBgiyi0ARCLm3Vch70XfR9w_eZbh8G5).
 
