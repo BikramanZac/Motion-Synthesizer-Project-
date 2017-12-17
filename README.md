@@ -1,7 +1,7 @@
 # <b> <font color ="darkblue"> Motion Synthesizer </font>
 
-<b> <font color ="black"> The Motion Syntesizer's final model is shown below in the picture. Our device allows user to control various musical effects by tracking objects, by hand movements in front of the sensors, and by body movements in front of a screen. It has different pushbuttons to give a wide range of functionality and features to the user. It has a GUI that displays different screens, and guides the user thru every mode. The enclosure was designed in Autodesk Fusion 360, and 3D printed by us. The PCB for the circuitry was designed in Altium Designer by us, and manufactured at Camosun College.
-For more details on each phase of the development, we recommend you to look at our [Project Report](https://drive.google.com/open?id=10LbdV46k1radWK_isuUhPYrFqP7wBc3M). </font>
+<b> <font color ="black"> The Motion Syntesizer's final model is shown below in the picture. Our device allows user to control various musical effects by tracking objects, by hand movements in front of the sensors, and by body movements in front of a screen. It has different pushbuttons to give a wide range of functionality and features to the user. It has a GUI that displays different screens, and guides the user thru every mode. The enclosure was designed in Autodesk Fusion 360, and 3D printed by us. The PCB for the circuitry was designed in Altium Designer by us, and manufactured at Camosun College.</font>
+For more details on each phase of the development, we recommend you to look at our [Project Report](https://drive.google.com/open?id=10LbdV46k1radWK_isuUhPYrFqP7wBc3M). 
   
 <img align="center" src="https://user-images.githubusercontent.com/33526358/33522751-d3f17ed4-d7a8-11e7-8151-aba70f0987b8.jpg">
 
