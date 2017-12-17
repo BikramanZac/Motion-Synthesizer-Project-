@@ -8,7 +8,8 @@ For more details on each phase of the development, we recommend you to look at o
 <h2> Features & Capabilities </h2>
 
 <ul>
-  <font color ="green"> <b>
+  <font color ="green">
+    <b>
     <li>Allows to track any object & control music with that</li>
     <li>Allows to control music by waving hands in front of the sensors</li>
     <li>Guides the user in every mode with Graphical User Interface</li>
