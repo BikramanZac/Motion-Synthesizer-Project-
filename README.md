@@ -52,10 +52,10 @@ For more details on each phase of the development, we recommend you to look at o
   
   
   
-<b> For any further questions or discussions regarding the project, feel free to reach us 
-  at:
+<b> For any further questions or discussions regarding the project, feel free to reach 
+  us at:
   
-  <b>bikramanzac@gmail.com 
+  <b> <font color="red">bikramanzac@gmail.com </font>
   
   
 
