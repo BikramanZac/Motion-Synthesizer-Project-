@@ -5,7 +5,7 @@ For more details on each phase of the development, we recommend you to look at o
   
 <img align="center" src="https://user-images.githubusercontent.com/33526358/33522751-d3f17ed4-d7a8-11e7-8151-aba70f0987b8.jpg">
 
-<h2> <b> Features & Capabilities </h2>
+<h2>Features & Capabilities </h2>
 
 <ul>
   <font color ="green" size = "3">
