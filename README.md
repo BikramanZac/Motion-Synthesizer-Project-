@@ -24,8 +24,13 @@ For more details on each phase of the development, we recommend you to look at o
 
 For more details see <A href="#Contact">Contact us </A>
 
-# <b> <font color ="darkblue">Hand Control </font>
+# <b> <font color ="darkblue">Different Modes </font>
+  
+## <b> <font color ="green">Hand Control </font>
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true)
+  
+## <b> <font color ="green">Camera Mode </font>
+<img align="center" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Pictures/CameraBallTracking.png?raw=true">
 
 <b>For user guide and instructions about each mode, you can follow the [User Manual here](https://drive.google.com/open?id=1gXBgiyi0ARCLm3Vch70XfR9w_eZbh8G5).
 
