@@ -9,6 +9,7 @@ For more details on each phase of the development, we recommend you to look at o
 
 <ul>
   <font color ="green" size = "3">
+    <b>
     <li>Allows to track any object & control music with that</li>
     <li>Allows to control music by waving hands in front of the sensors</li>
     <li>Guides the user in every mode with Graphical User Interface</li>
@@ -16,6 +17,7 @@ For more details on each phase of the development, we recommend you to look at o
     <li>Demonstrates unique features of Computer Vision Technology</li> 
     <li>Gives the choice of 20 different sound effects, which can be mixed by the user</li> 
     <li>Starts up on plug in to the wall power</li>
+    </b>
    </font>
 </ul> 
       
