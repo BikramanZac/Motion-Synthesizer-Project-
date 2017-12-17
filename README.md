@@ -24,15 +24,15 @@ For more details on each phase of the development, we recommend you to look at o
 # <b> <font color ="darkblue">Having Fun Playing It</font>
 <img src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true">
 
-Working on this project was great. We leraned a lot, and made it count. Read more about <A href="#Contact">Our Team here </A>
+Working on this project was great. We learned a lot, and made it count. Read more about <A href="#Contact">Our Team here </A>.
 
 # <b> <font color ="darkblue">Different Modes </font>
   
 ## <b> <font color ="green">Hand Control </font>
-![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true)
+<img align="right" src="https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true">
   
 ## <b> <font color ="green">Camera Mode </font>
-<img align="center" height="440" width="575" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Pictures/CameraBallTracking.png?raw=true">
+<img align="right" height="440" width="575" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Pictures/CameraBallTracking.png?raw=true">
 
 <b>For user guide and instructions about each mode, you can follow the [User Manual here](https://drive.google.com/open?id=1gXBgiyi0ARCLm3Vch70XfR9w_eZbh8G5).
 
@@ -47,12 +47,14 @@ Working on this project was great. We leraned a lot, and made it count. Read mor
   
 <b> We are group of Electronics & Computer Engineering students of Camosun College. Our team consisted of Bikramjit Singh, Amandeep Singh, and Zachary Legg. We were all part of all the important decisons and planning in this project. 
 
-<b> We are always interested to learn about new tecchnologies. 
+<b> We are always interested to learn about new technologies. 
   
   
   
 <b> For any further questions or discussions regarding the project, feel free to reach us 
   at:
+  
+  
   bikramanzac@gmail.com 
   
   
