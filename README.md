@@ -16,7 +16,7 @@ For more details on each phase of the development, we recommend you to look at o
     <li>Supports HDMI screens, and 3.5 mm jack headphones</li> 
     <li>Demonstrates unique features of Computer Vision Technology</li> 
     <li>Gives the choice of 20 different sound effects, which can be mixed by the user</li> 
-    <li>Starts up on plug in to the wall power</li>
+    <li>Starts up on plugging in to the wall power</li>
     </b>
    </font>
 </ul> 
@@ -29,9 +29,15 @@ For more details on each phase of the development, we recommend you to look at o
 # <b> <font color ="darkblue">Different Modes </font>
   
 ## <b> <font color ="green">Hand Control </font>
+  
+<b> This mode allows user to control different sounds by waving hands as shown below:
+  
 <img src="https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Ultra.gif?raw=true">
   
 ## <b> <font color ="green">Camera Mode </font>
+  
+<b> User can track any object in this mode, and control various sounds. Our calibration software allows user to set up tracking for any color's object. The user will see a red dot on the object as tracking sign as shown below:
+  
 <img height="440" width="575" src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Pictures/CameraBallTracking.png?raw=true">
 
 
