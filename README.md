@@ -5,7 +5,7 @@ For more details on each phase of the development, we recommend you to look at o
   
 <img align="center" src="https://user-images.githubusercontent.com/33526358/33522751-d3f17ed4-d7a8-11e7-8151-aba70f0987b8.jpg">
 
-<h2> Features & Capabilities </h2>
+<h2> <b> Features & Capabilities </h2>
 
 <ul>
   <font color ="green" size = "3">
@@ -21,10 +21,10 @@ For more details on each phase of the development, we recommend you to look at o
    </font>
 </ul> 
       
-# <b> <font color ="darkblue">Having Fun Playing with it </font>
+# <b> <font color ="darkblue">Having Fun Playing It</font>
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
 
-For more details see <A href="#Contact">Contact us </A>
+Working on this project was great. We leraned a lot, and made it count. Read more about <A href="#Contact">Our Team here </A>.
 
 # <b> <font color ="darkblue">Different Modes </font>
   
@@ -42,15 +42,17 @@ For more details see <A href="#Contact">Contact us </A>
 
 
 
-<b> Our team worked hard on this project, and achieved success in making of very interesting device. We planned and developed the project in limited amount of time.
+<b> Our team worked hard on this project, and achieved success in making of very interesting device. We planned and developed 
+  the project in the limited amount of time.
   
-<b> We are group of Electronics & Computer Engineering students of Camosun College. Our team consisted of Bikramjit Singh, Amandeep Singh, and Zachary Legg.
+<b> We are group of Electronics & Computer Engineering students of Camosun College. Our team consisted of Bikramjit Singh, Amandeep Singh, and Zachary Legg. We were all part of all the important decisons and planning in this project. 
 
 <b> We are always interested to learn about new tecchnologies. 
   
   
   
-<b> For any further questions or discussions regarding the project, feel free to reach us at:
+<b> For any further questions or discussions regarding the project, feel free to reach us 
+  at:
   bikramanzac@gmail.com 
   
   
