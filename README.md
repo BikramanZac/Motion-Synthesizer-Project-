@@ -24,7 +24,7 @@ For more details on each phase of the development, we recommend you to look at o
 # <b> <font color ="darkblue">Having Fun Playing It</font>
 ![Image](https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true)
 
-Working on this project was great. We leraned a lot, and made it count. Read more about <A href="#Contact">Our Team here </A>.
+Working on this project was great. We leraned a lot, and made it count. Read more about <A href="#Contact">Our Team here </A>
 
 # <b> <font color ="darkblue">Different Modes </font>
   
