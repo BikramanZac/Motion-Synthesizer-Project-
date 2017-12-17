@@ -8,7 +8,7 @@ For more details on each phase of the development, we recommend you to look at o
 <h2>Features & Capabilities </h2>
 
 <ul>
-  <font color ="green" size = "5">
+  <font color ="green" size = "3">
     <b>
     <li>Allows to track any object & control music with that</li>
     <li>Allows to control music by waving hands in front of the sensors</li>
@@ -24,7 +24,7 @@ For more details on each phase of the development, we recommend you to look at o
 # <b> <font color ="darkblue">Having Fun Playing It</font>
 <img src= "https://github.com/BikramanZac/Motion-Synthesizer-Project-/blob/master/Motion%20Excitement.jpg?raw=true">
 
-Working on this project was great. We learned a lot, and made it count. Read more about <A href="#Contact">Our Team here </A>.
+<b> Working on this project was great. We learned a lot, and made it count. Read more about <A href="#Contact">Our Team here </A>.
 
 # <b> <font color ="darkblue">Different Modes </font>
   
@@ -55,8 +55,7 @@ Working on this project was great. We learned a lot, and made it count. Read mor
 <b> For any further questions or discussions regarding the project, feel free to reach us 
   at:
   
-  
-  bikramanzac@gmail.com 
+  <b>bikramanzac@gmail.com 
   
   
 
